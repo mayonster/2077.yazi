@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-	Example Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
+	2077 Flavor for <a href="https://github.com/sxyazi/yazi">Yazi</a>
 </h3>
 
 ## 👀 Preview
